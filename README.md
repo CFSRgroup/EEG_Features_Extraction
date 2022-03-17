@@ -6,8 +6,8 @@ Folder Description:
 
                  --common_functions: a lot of basic mathematical models
                 |
-programme code--|--DeepLearningToolbox-master: several deep learning models
-                |
+programme code--|--DeepLearningToolbox-master: a tool box for deeplearning, contains codes of several classical models
+                |                (origin from: https://github.com/rasmusbergpalm/DeepLearnToolbox)                 
                  --other files: 1 features that have been extracted of several physiological signal databases (EEG)
                                2 labels of several physiological signal databases (EEG)
                                3 several machine learning models that apply in these databases
