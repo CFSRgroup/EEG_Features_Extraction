@@ -1,0 +1,83 @@
+clc;
+clear;
+close all;
+
+
+data =xlsread('C:\Users\MurfeyZhu\Desktop\数模\第四题A的特征整理.xlsx')
+data(:,1)=[]
+tem = data(:,1)
+wet = data(:,2)
+qiya = data(:,3)
+wind = data(:,4)
+so2 = data(:,5)
+no2=data(:,6)
+pm10=data(:,7)
+pm25=data(:,8)
+o3=data(:,9)
+co = data(:,10)
+dso2 =data(:,11)
+dno2 = data(:,12)
+dpm10=data(:,13)
+dpm25=data(:,14)
+do3=data(:,15)
+dco=data(:,16)
+save C:\Users\MurfeyZhu\Desktop\数模\Q4Adata  
+data =xlsread('C:\Users\MurfeyZhu\Desktop\数模\第四题A1的特征整理.xlsx')
+data(:,1)=[]
+tem = data(:,1)
+wet = data(:,2)
+qiya = data(:,3)
+wind = data(:,4)
+so2 = data(:,5)
+no2=data(:,6)
+pm10=data(:,7)
+pm25=data(:,8)
+o3=data(:,9)
+co = data(:,10)
+dso2 =data(:,11)
+dno2 = data(:,12)
+dpm10=data(:,13)
+dpm25=data(:,14)
+do3=data(:,15)
+dco=data(:,16)
+save C:\Users\MurfeyZhu\Desktop\数模\Q4A1data
+data =xlsread('C:\Users\MurfeyZhu\Desktop\数模\第四题A2的特征整理.xlsx')
+data(:,1)=[]
+tem = data(:,1)
+wet = data(:,2)
+qiya = data(:,3)
+wind = data(:,4)
+so2 = data(:,5)
+no2=data(:,6)
+pm10=data(:,7)
+pm25=data(:,8)
+o3=data(:,9)
+co = data(:,10)
+dso2 =data(:,11)
+dno2 = data(:,12)
+dpm10=data(:,13)
+dpm25=data(:,14)
+do3=data(:,15)
+dco=data(:,16)
+save C:\Users\MurfeyZhu\Desktop\数模\Q4A2data
+data =xlsread('C:\Users\MurfeyZhu\Desktop\数模\第四题A3的特征整理.xlsx')
+data(:,1)=[]
+tem = data(:,1)
+wet = data(:,2)
+qiya = data(:,3)
+wind = data(:,4)
+so2 = data(:,5)
+no2=data(:,6)
+pm10=data(:,7)
+pm25=data(:,8)
+o3=data(:,9)
+co = data(:,10)
+dso2 =data(:,11)
+dno2 = data(:,12)
+dpm10=data(:,13)
+dpm25=data(:,14)
+do3=data(:,15)
+dco=data(:,16)
+
+save C:\Users\MurfeyZhu\Desktop\数模\Q4A3data
+
