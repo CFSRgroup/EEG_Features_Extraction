@@ -4,11 +4,11 @@ Code of Matlab format is in master branch.
 -----------------------------------------------------------------------------------------------------------------
 Folder Description:
 
-                --common_functions: a lot of basic mathematical models
+                 --common_functions: a lot of basic mathematical models
                 |
-programme code----DeepLearningToolbox-master: several deep learning models
+programme code--|--DeepLearningToolbox-master: several deep learning models
                 |
-                --other files: 1 features that have been extracted of several physiological signal databases (EEG)
+                 --other files: 1 features that have been extracted of several physiological signal databases (EEG)
                                2 labels of several physiological signal databases (EEG)
                                3 several machine learning models that apply in these databases
                                4 channel location file
